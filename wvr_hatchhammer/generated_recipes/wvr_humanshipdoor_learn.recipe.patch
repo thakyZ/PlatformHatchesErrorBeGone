@@ -1,0 +1,5 @@
+[
+  [
+    { "op": "replace", "path": "/output/item", "value": "humanshipdoor" }
+  ]
+]

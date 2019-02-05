@@ -1,0 +1,31 @@
+[
+  [
+    { "op": "test", "path": "/initialRecipeUnlocks", "inverse": true },
+    { "op": "add", "path": "/initialRecipeUnlocks", "value": [] }
+  ],
+  [
+    { "op": "add", "path": "/initialRecipeUnlocks/-", "value": [
+      "apexshipdoor",
+      "apexshiphatch",
+      "wvr_apexshiphatchplat",
+      "avianshipdoor",
+      "avianshiphatch",
+      "wvr_avianshiphatchplat",
+      "floranshipdoor",
+      "floranshiphatch",
+      "wvr_floranshiphatchplat",
+      "glitchshipdoor",
+      "glitchshiphatch",
+      "wvr_glitchshiphatchplat",
+      "humanshipdoor",
+      "humanshiphatch",
+      "wvr_humanshiphatchplat",
+      "hylotlshipdoor",
+      "hylotlshiphatch",
+      "wvr_hylotlshiphatchplat",
+      "novakidshipdoor",
+      "novakidshiphatch",
+      "wvr_novakidshiphatchplat"
+    ] }
+  ]
+]

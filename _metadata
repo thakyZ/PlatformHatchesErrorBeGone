@@ -1,0 +1,9 @@
+{
+  "author" : "thakyZ",
+  "description" : "^#EA9931;Gets rid of those nasty errors by the Platform Hatches mod.^reset;\n\nBasically they had made a way for you to obtain knowledge of how to craft all the ship hatches, but failed to update when the ability to craft recipes was removed?\nI am not sure if the ability was ever removed or they just did it wrong, but it looked correct, so I just went ahead and made a completely new way to learn how to craft the hatches/doors of the racial ship parts.\nI hope you guys can find some use in this, it's not much but I do hate getting error messages in my console.\n\nAlso in order to learn the recipes, you can go either of two ways:\n^#A451C4;1.^reset; Place down the Hatch Hammer and you will immediately unlock the recipes.\n^#A451C4;2.^reset; Place down any of the Hatches/Doors and you'll probably need a mod that lets you learn blueprints upon scanning them, and scan the hatch or door. This method is a little out of the way, but I don't think there is any reason to execute this method.\n\n^#A451C4;NOTE:^reset; I am planning on adding a way to purchase the recipes to learn how to craft, via a store or vending machine, but I'll have to test it out first.\n\nCredits:\n^#A451C4;Weaver^reset; ^#9BBA3D;https://steamcommunity.com/id/weaverthree^reset; - For the original Platform Hatches mod.\n\n^#A451C4;Github:^reset; ^#A451C4;https://github.com/thakyZ/PlatformHatchesErrorBeGone^reset;\n^#A451C4;Steam:^reset; ^#A451C4;Coming Soon*^reset;\n\nRequires Platform Hatches by Weaver\n^#A451C4;Steam:^reset; ^#9BBA3D;https://steamcommunity.com/sharedfiles/filedetails/?id=753337799^reset;",
+  "friendlyName" : "Platform Hatches Error Be-Gone",
+  "link" : "steam://openurl/https://github.com/thakyZ/PlatformHatchesErrorBeGone/",
+  "name" : "PlatformHatchesErrorBeGone",
+  "tags" : "Miscellaneous",
+  "version" : "1.0.0"
+}

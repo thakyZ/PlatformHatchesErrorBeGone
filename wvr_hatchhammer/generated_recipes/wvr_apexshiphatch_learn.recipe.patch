@@ -1,0 +1,16 @@
+{
+    "input": [
+        {
+            "count": 250,
+            "item": "money"
+        }
+    ],
+    "groups": [
+        "wvr_hatchplat",
+        "wvr_hatchlearn"
+    ],
+    "output": {
+        "count": 1,
+        "item": "apexshiphatch"
+    }
+}
