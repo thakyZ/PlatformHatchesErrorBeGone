@@ -12,10 +12,10 @@ Also in order to learn the recipes, you can go either of two ways:
 
 **NOTE:** I am planning on adding a way to purchase the recipes to learn how to craft, via a store or vending machine, but I'll have to test it out first.
 
-Credits:
+Credits:   
 [Weaver](https://steamcommunity.com/id/weaverthree) - For the original Platform Hatches mod.
 
 **Steam:** *Coming Soon*
 
-Requires Platform Hatches by Weaver
+Requires Platform Hatches by Weaver   
 **Steam:** https://steamcommunity.com/sharedfiles/filedetails/?id=753337799
